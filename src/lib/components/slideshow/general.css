@@ -64,7 +64,8 @@
 .react-slideshow-container + div.indicators {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: -40px;
+  position: relative;
 }
 
 .react-slideshow-container + div.indicators > div {
