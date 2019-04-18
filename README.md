@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/femioladeji/react-slideshow/branch/master/graph/badge.svg)](https://codecov.io/gh/femioladeji/react-slideshow)
 [![Package Quality](http://npm.packagequality.com/shield/react-slideshow-image.svg)](http://packagequality.com/#?package=react-slideshow-image)
 
-A simple slideshow component built with react that supports slide, fade and zoom effects
+A simple slideshow component built with react that supports slide, fade and zoom effects. This project is an extension of [react-slideshow-image](https://www.npmjs.com/package/react-slideshow-image)
 
 Installation
 
